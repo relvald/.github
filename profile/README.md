@@ -13,7 +13,7 @@ A person makes the decision, and the reasons stay with it. When the evidence und
 - **Planned:** AI that reads the sources a team gives it access to (tracker, code, documents, chat, email) and drafts each decision for a person to approve. A person always decides.
 - **Planned:** an on-prem version that runs inside a team's own infrastructure, for teams that can't send data out.
 
-No public repositories yet.
+The product code is not public yet.
 
 ## Send one decision
 
